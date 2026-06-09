@@ -65,3 +65,39 @@ retention campaign is estimated to save $XX,XXX in annual revenue.
 ---
 
 ## Project Structure
+churn-prediction/
+├── churn_analysis.ipynb    # Full analysis : EDA, modeling, SHAP, business recommendations
+├── requirements.txt        # Dependencies
+└── README.md
+
+---
+
+## Dataset
+
+[IBM Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+- 7,043 customers
+- 21 features : contract type, monthly charges, tenure, internet service...
+- Target : Churn (Yes/No) — 26.5% churn rate
+
+---
+
+## How to Run
+
+```bash
+git clone https://github.com/callmejuniorrr/churn-prediction
+cd churn-prediction
+pip install -r requirements.txt
+jupyter notebook churn_analysis.ipynb
+```
+
+---
+
+## Author
+
+**Patrick Camy**
+Data Analyst Student | Polytech Clermont-Ferrand
+3rd year — Mathematical Engineering & Data Science
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/patrick-c-5267b4265)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/callmejuniorrr)
