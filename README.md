@@ -34,16 +34,12 @@ on linearly separable data.
 
 | Segment | Customers | Monthly Revenue at Risk |
 |---------|-----------|------------------------|
-| High Risk (>70%) | ~X | $X,XXX |
-| Medium Risk (40-70%) | ~X | $X,XXX |
-| Low Risk (<40%) | ~X | — |
+| High Risk (>70%) | 374 | $29,771.95 |
+| Medium Risk (40-70%) | 322 | $21,570.35 |
+| Low Risk (<40%) | 713 | — |
 
-**Top churn drivers identified :**
-- Month-to-month contracts → 3x more churn than annual
-- Fiber optic internet → paradoxically the strongest churn signal
-- High monthly charges (>$85) → significantly increases churn probability
-- Low tenure (1-7 months) → new customers are the most at risk
-
+**Total monthly revenue at risk : $51,342.30**
+**Estimated annual impact : $616,107.60**
 ---
 
 ## Business Recommendations
