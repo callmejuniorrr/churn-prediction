@@ -50,7 +50,8 @@ on linearly separable data.
 4. **Review pricing strategy** — introduce mid-tier plans, loyalty discounts after 6 months
 
 Assuming a 30% success rate on high-risk customers, the model-driven
-retention campaign is estimated to save $XX,XXX in annual revenue.
+retention campaign is estimated to save ~$107,000 in annual revenue
+($29,772 monthly revenue at risk × 12 months × 30%).
 
 ---
 
@@ -97,7 +98,7 @@ jupyter notebook churn_analysis.ipynb
 
 **Patrick Camy**
 Data Analyst Student | Polytech Clermont-Ferrand
-3rd year — Mathematical Engineering & Data Science
+4th year — Mathematical Engineering & Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/patrick-c-5267b4265)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/callmejuniorrr)
